@@ -1,0 +1,5 @@
+# depenedencies
+/node_modules
+
+# misc
+.env.dev.sh
