@@ -5,7 +5,7 @@ exports.editorApiBaseUrl = function () {
 };
 
 exports.editorWwwBaseUrl = function () {
-  const baseUrl = process.env.EDITOR_WWWW_BASE_URL || 'http://localhost:3000';
+  const baseUrl = process.env.EDITOR_WWWW_BASE_URL || 'http://localhost:3001';
   return baseUrl;
 }
 const FILE_BASE_URL = "/home/rails/temp-files";
